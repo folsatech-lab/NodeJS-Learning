@@ -1,0 +1,5 @@
+console.log("I'm Olumide.")
+console.log("My favourite food is pounded yam.")
+console.log("I'm learning programming so that I can become a software engineer.")
+console.log("My dream project is to built a WhatsApp-like App.")
+console.log("I want to be focused.")
